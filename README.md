@@ -18,6 +18,7 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=orumiya&show_icons=true&locale=en&layout=compact" alt="orumiya" /></p>
 
 ### Blogs posts
+<span>Why you should upgrade to the latest version of Angular?<a href="https://eszterkasza.hashnode.dev/why-you-should-upgrade-to-the-latest-version-of-angular"> Link</a></span>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
