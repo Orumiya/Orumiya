@@ -20,6 +20,7 @@
 ### Blogs posts
 <span>Why you should upgrade to the latest version of Angular?<a href="https://eszterkasza.hashnode.dev/why-you-should-upgrade-to-the-latest-version-of-angular"> Link</a></span>
 <!-- BLOG-POST-LIST:START -->
+- [Why you should upgrade to the latest version of Angular?](https://eszterkasza.hashnode.dev/why-you-should-upgrade-to-the-latest-version-of-angular)
 <!-- BLOG-POST-LIST:END -->
 
 
