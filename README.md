@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eszter</h1>
-<h3 align="center">I am a software developer, a tech enthusiast with more than 6 years of experience in software development and testing.</h3>
+<h3 align="center">I am a software developer, a tech enthusiast with more than 9 years of experience in software development and testing.</h3>
 
 - 🚀 I am currently working on the webfrontend of a new banking software - it's a secret :)
 
