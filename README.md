@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eszter</h1>
 <h3 align="center">I am a software developer, a tech enthusiast with more than 9 years of experience in software development and testing.</h3>
 
-- 🚀 I am currently working on the webfrontend of a new banking software - it's a secret :)
+- 🚀 I am currently working on the webfrontend of a banking software :)
 
 - 🔭 I worked on [Werkbliq](https://www.werkbliq.de/), [CCONFORM](https://www.sds.at/products/sds-geos/sds-cconform/), [iREG](https://www.sds.at/products/sds-ireg/)
 
